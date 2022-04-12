@@ -1,0 +1,217 @@
+# NAME TEXT
+- id: 0x051F
+  en: >-
+      Tyne
+- id: 0x048A
+  en: >-
+      {:icon ai-settings}Tyne Attack
+- id: 0x05CB
+  en: >-
+      A familiar Keyblade to Tyne called
+
+      the Ultima Weapon.
+
+      It can be used for checking movement.
+- id: 0x1E56
+  en: >-
+      Party Members concentrate attacks on
+
+      Tyne´s target.
+- id: 0x1E57
+  en: >-
+      Party Members fight close to Tyne.
+- id: 0x1E58
+  en: >-
+      Party Members will fight a target other
+
+      than Tyne´s.
+- id: 0x1E59
+  en: >-
+      While Tyne attacks, Party Members will
+
+      support him.
+- id: 0x3336
+  en: >-
+      A Limit Command that uses teamwork
+
+      to unleash the powerful Trinity attack.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3338
+  en: >-
+      A Limit Command that unleashes
+
+      Donald´s powerful Comet spell.
+
+      Consumes all of Tyne´s MP.
+- id: 0x333A
+  en: >-
+      A Limit Command that unleashes
+
+      Donald´s powerful Duck Flare spell.
+
+      Consumes all of Tyne´s MP.
+- id: 0x333C
+  en: >-
+      A Limit Command that unleashes Goofy´s
+
+      spinning attack, Whirli-Goof.
+
+      Consumes all of Tyne´s MP.
+- id: 0x333E
+  en: >-
+      A Limit Command that unleashes Goofy
+
+      and Tyne´s joint attack, Knocksmash.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3340
+  en: >-
+      A Limit Command that unleashes Aladdin
+
+      and Tyne´s joint attack, Speedster.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3342
+  en: >-
+      A Limit Command that unleashes Auron
+
+      and Tyne´s joint attack, Bushido.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3344
+  en: >-
+      A Limit Command that unleashes Beast
+
+      and Tyne´s joint attack, Twin Howl.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3346
+  en: >-
+      A Limit Command that unleashes Jack
+
+      and Tyne´s joint attack, Dance Call.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3348
+  en: >-
+      A Limit Command that unleashes Mulan
+
+      and Tyne´s joint attack, Red Rocket.
+
+      Consumes all of Tyne´s MP.
+- id: 0x334A
+  en: >-
+      A Limit Command that unleashes Riku
+
+      and Tyne´s joint attack, Session.
+
+      Consumes all of Tyne´s MP.
+- id: 0x334C
+  en: >-
+      A Limit Command that unleashes Simba
+
+      and Tyne´s joint attack, Wildcat.
+
+      Consumes all of Tyne´s MP.
+- id: 0x334E
+  en: >-
+      A Limit Command that unleashes Jack
+
+      Sparrow and Tyne´s joint attack, Bluff.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3350
+  en: >-
+      A Limit Command that unleashes Tron
+
+      and Tyne´s joint attack, Setup.
+
+      Consumes all of Tyne´s MP.
+- id: 0x3BC3
+  en: >-
+      Use Healing Light to save Tyne!
+- id: 0x3BC4
+  en: >-
+      Use Healing Light to trade places with Tyne!
+- id: 0x3C82
+  en: >-
+      Dashes through enemies, bouncing
+
+      them towards Tyne. {:color #F0F00080}MP Cost: 10{:reset}
+- id: 0x3CA9
+  en: >-
+      Stops enemy movements with dark magic
+
+      spells as commanded when Tyne´s
+
+      combo is about to end. {:color #F0F00080}MP Cost: 10{:reset}
+- id: 0x3CF3
+  en: >-
+      Anti-Tyne
+- id: 0x459A
+  en: >-
+      {:width 85}Peter Pan will help Tyne fight against enemies.
+
+      If Tyne falls during battle, Tinker Bell will be
+
+      able to revive him one time.
+- id: 0x45B0
+  en: >-
+      Summons Status. A friend will come and
+
+      help Tyne when called upon.
+
+      {:color #F0F00080}Drive points consumed: 3{:reset}
+- id: 0x467C
+  en: >-
+      A charm from Kairi. It represents
+
+      her wish to meet Tyne again,
+
+      no matter how far apart they are.
+- id: 0x4F6A
+  en: >-
+      Restores Tyne's HP when
+
+      a Limit Command lands.
+- id: 0x4FAE
+  en: >-
+      Proof of winning the battle in
+
+      the portal at Disney Castle.
+
+      Perhaps it has changed Tyne.
+- id: 0x4FB0
+  en: >-
+      Proof of defeating all of Organization {XIII}'s
+
+      replica data in the Garden of Assemblage.
+
+      Perhaps it has changed Tyne.
+- id: 0x4FB2
+  en: >-
+      Proof of appeasing the Mushroom {XIII}.
+
+      Perhaps it has changed Tyne.
+- id: 0x5610
+  en: >-
+      ⤷ Gopher will help Tyne with an obstacle {:color #FFEC1980}one time{:reset}!
+- id: 0x5611
+  en: >-
+      Press {:icon dynamic-triangle} after hitting an obstacle
+
+      or Pooh will continue to lose health.
+
+      {:color #FFEC1980}Pooh must be with Tyne to collect Orbs{:reset}.
+- id: 0x5613
+  en: >-
+      ⤷ Gopher will help Tyne with an obstacle one time!
+- id: 0x5617
+  en: >-
+      ⤷ Whenever Tyne falls from a balloon to the    trampoline, the player loses one of their tries.
+      The game is over when {:color #FFEC1980}zero tries are left{:reset}.
+# COMMON TEXT
+- id: 0x02F8
+  en: >-
+      yea
