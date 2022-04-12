@@ -2,9 +2,7 @@ title: Tyniscus Patch (Tyne)
 description: Replaces Sora's UI text elements with Tyne.
 assets:
 # Texts
-- name: msg/jp/sys.bar
-  multi:
-  - name: msg/us/sys.bar
+- name: msg/us/sys.bar
   method: binarc
   source:
   - name: sys
