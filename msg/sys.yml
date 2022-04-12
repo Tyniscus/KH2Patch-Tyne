@@ -1,4 +1,4 @@
-# NAME TEXT
+# Name Entries
 - id: 0x051F
   # Sora Entry
   en: >-
@@ -219,20 +219,3 @@
       trampoline, the player loses one of their tries.
 
       The game is over when {:color #FFEC1980}zero tries are left{:reset}.
-# COMMON TEXT
-- id: 0x4E83
-  en: >-
-      Dodge Roll LV1
-- id: 0x4E85
-  en: >-
-      Dodge Roll LV2
-- id: 0x4E87
-  en: >-
-      Dodge Roll LV3
-- id: 0x4EA0
-  en: >-
-      Limit Form Status.
-
-      A Form specializing in Limit attacks.
-
-      {:color #F0F00080}Drive points consumed: 4{:reset}
