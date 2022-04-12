@@ -1,7 +1,12 @@
 # NAME TEXT
 - id: 0x051F
+  # Sora Entry
   en: >-
       Tyne
+- id: 0x052D
+  # Roxas Entry
+  en: >-
+      Texyn
 - id: 0x048A
   en: >-
       {:icon ai-settings}Tyne Attack
@@ -209,7 +214,10 @@
       ⤷ Gopher will help Tyne with an obstacle one time!
 - id: 0x5617
   en: >-
-      ⤷ Whenever Tyne falls from a balloon to the    trampoline, the player loses one of their tries.
+      ⤷ Whenever Tyne falls from a balloon to the
+
+      trampoline, the player loses one of their tries.
+
       The game is over when {:color #FFEC1980}zero tries are left{:reset}.
 # COMMON TEXT
 - id: 0x4E83
