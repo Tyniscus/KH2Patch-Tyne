@@ -1,5 +1,5 @@
 title: Character Patch (Tyne)
-description: Replaces Sora's UI text elements with Tyne.
+description: Replaces Sora's UI elements with Tyne.
 assets:
 # Text Elements
 - name: msg/us/sys.bar
