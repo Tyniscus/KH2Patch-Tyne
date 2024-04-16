@@ -1,221 +1,943 @@
-# Name Entries
-- id: 0x051F
-  # Sora Entry
-  en: >-
-      Tyne
-- id: 0x052D
-  # Roxas Entry
-  en: >-
-      Texyn
-- id: 0x048A
-  en: >-
-      {:icon ai-settings}Tyne Attack
-- id: 0x05CB
-  en: >-
-      A familiar Keyblade to Tyne called
+# Name entries
+- id: 1311
+  text: Tyne
+- id: 1325
+  text: Texyn
+- id: 634
+  text: "Tyne:
 
-      the Ultima Weapon.
+	We´ve got to get to the palace!"
+- id: 636
+  text: "Tyne:
 
-      It can be used for checking movement.
-- id: 0x1E56
-  en: >-
-      Party Members concentrate attacks on
+	This can´t be right..."
+- id: 638
+  text: "Tyne:
 
-      Tyne´s target.
-- id: 0x1E57
-  en: >-
-      Party Members fight close to Tyne.
-- id: 0x1E58
-  en: >-
-      Party Members will fight a target other
+	C´mon, let´s follow Aladdin!"
+- id: 662
+  text: "Tyne:
 
-      than Tyne´s.
-- id: 0x1E59
-  en: >-
-      While Tyne attacks, Party Members will
+	I don´t think it´s going to open."
+- id: 664
+  text: "Tyne:
 
-      support him.
-- id: 0x3336
-  en: >-
-      A Limit Command that uses teamwork
+	We´ve got to help her!"
+- id: 666
+  text: "Tyne:
 
-      to unleash the powerful Trinity attack.
+	We´ve got to help her!"
+- id: 668
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3338
-  en: >-
-      A Limit Command that unleashes
+	This isn´t the way to Hades."
+- id: 674
+  text: "Tyne:
 
-      Donald´s powerful Comet spell.
+	ₓₓₓ"
+- id: 676
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x333A
-  en: >-
-      A Limit Command that unleashes
+	But what about Cerberus?"
+- id: 678
+  text: "Tyne:
 
-      Donald´s powerful Duck Flare spell.
+	ₓₓₓ"
+- id: 680
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x333C
-  en: >-
-      A Limit Command that unleashes Goofy´s
+	Poor Hercules...we can´t
 
-      spinning attack, Whirli-Goof.
+	just leave him."
+- id: 682
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x333E
-  en: >-
-      A Limit Command that unleashes Goofy
+	Hercules is in a match right now!"
+- id: 684
+  text: "Tyne:
 
-      and Tyne´s joint attack, Knocksmash.
+	ₓₓₓ"
+- id: 1162
+  text: {:icon ai-settings}Tyne Attack
+- id: 1331
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3340
-  en: >-
-      A Limit Command that unleashes Aladdin
+	I don´t think Aladdin´s this way."
+- id: 1333
+  text: "Tyne:
 
-      and Tyne´s joint attack, Speedster.
+	The peddler´s shop isn´t that way..."
+- id: 1335
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3342
-  en: >-
-      A Limit Command that unleashes Auron
+	The peddler´s shop isn´t this way..."
+- id: 1339
+  text: "Tyne:
 
-      and Tyne´s joint attack, Bushido.
+	We should talk to the Beast first."
+- id: 1341
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3344
-  en: >-
-      A Limit Command that unleashes Beast
+	We should talk to the Beast first."
+- id: 1343
+  text: "Tyne:
 
-      and Tyne´s joint attack, Twin Howl.
+	We should talk to the Beast first."
+- id: 1345
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3346
-  en: >-
-      A Limit Command that unleashes Jack
+	We should talk to the Beast first."
+- id: 1347
+  text: "Tyne:
 
-      and Tyne´s joint attack, Dance Call.
+	I don´t think it´s going to open."
+- id: 1349
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3348
-  en: >-
-      A Limit Command that unleashes Mulan
+	It came from over there!"
+- id: 1351
+  text: "Tyne:
 
-      and Tyne´s joint attack, Red Rocket.
+	They´re headed into town!"
+- id: 1353
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x334A
-  en: >-
-      A Limit Command that unleashes Riku
+	Let´s go check out the cave."
+- id: 1357
+  text: "Tyne:
 
-      and Tyne´s joint attack, Session.
+	"
+- id: 1359
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x334C
-  en: >-
-      A Limit Command that unleashes Simba
+	Wait for Will´s signal!"
+- id: 1361
+  text: "Tyne:
 
-      and Tyne´s joint attack, Wildcat.
+	It sounded like it came from
 
-      Consumes all of Tyne´s MP.
-- id: 0x334E
-  en: >-
-      A Limit Command that unleashes Jack
+	the port."
+- id: 1363
+  text: "Tyne:
 
-      Sparrow and Tyne´s joint attack, Bluff.
+	"
+- id: 1365
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3350
-  en: >-
-      A Limit Command that unleashes Tron
+	"
+- id: 1367
+  text: "Tyne:
 
-      and Tyne´s joint attack, Setup.
+	"
+- id: 1369
+  text: "Tyne:
 
-      Consumes all of Tyne´s MP.
-- id: 0x3BC3
-  en: >-
-      Use Healing Light to save Tyne!
-- id: 0x3BC4
-  en: >-
-      Use Healing Light to trade places with Tyne!
-- id: 0x3C82
-  en: >-
-      Dashes through enemies, bouncing
+	"
+- id: 1371
+  text: "Tyne:
 
-      them towards Tyne. {:color #F0F00080}MP Cost: 10{:reset}
-- id: 0x3CA9
-  en: >-
-      Stops enemy movements with dark magic
+	"
+- id: 1373
+  text: "Tyne:
 
-      spells as commanded when Tyne´s
+	"
+- id: 1377
+  text: "Tyne:
 
-      combo is about to end. {:color #F0F00080}MP Cost: 10{:reset}
-- id: 0x3CF3
-  en: >-
-      Anti-Tyne
-- id: 0x459A
-  en: >-
-      {:width 85}Peter Pan will help Tyne fight against enemies.
+	Gotta get to the audience
 
-      If Tyne falls during battle, Tinker Bell will be
+	chamber, fast!"
+- id: 1379
+  text: "Tyne:
 
-      able to revive him one time.
-- id: 0x45B0
-  en: >-
-      Summons Status. A friend will come and
+	Maybe the Queen should
 
-      help Tyne when called upon.
+	come with me."
+- id: 1381
+  text: "Tyne:
 
-      {:color #F0F00080}Drive points consumed: 3{:reset}
-- id: 0x467C
-  en: >-
-      A charm from Kairi. It represents
+	Let´s go into the book
 
-      her wish to meet Tyne again,
+	and see Pooh!"
+- id: 1385
+  text: "Tyne:
 
-      no matter how far apart they are.
-- id: 0x4F6A
-  en: >-
-      Restores Tyne's HP when
+	ₓₓₓ"
+- id: 1387
+  text: "Tyne:
 
-      a Limit Command lands.
-- id: 0x4FAE
-  en: >-
-      Proof of winning the battle in
+	ₓₓₓ"
+- id: 1389
+  text: "Tyne:
 
-      the portal at Disney Castle.
+	"
+- id: 1391
+  text: "Tyne:
 
-      Perhaps it has changed Tyne.
-- id: 0x4FB0
-  en: >-
-      Proof of defeating all of Organization {XIII}'s
+	Scar must still be around..."
+- id: 1393
+  text: "Tyne:
 
-      replica data in the Garden of Assemblage.
+	But that´s Rafiki´s private space."
+- id: 1395
+  text: "Tyne:
 
-      Perhaps it has changed Tyne.
-- id: 0x4FB2
-  en: >-
-      Proof of appeasing the Mushroom {XIII}.
+	Creepy...let´s stay out of there."
+- id: 1397
+  text: "Tyne:
 
-      Perhaps it has changed Tyne.
-- id: 0x5610
-  en: >-
-      ⤷ Gopher will help Tyne with an obstacle {:color #FFEC1980}one time{:reset}!
-- id: 0x5611
-  en: >-
-      Press {:icon dynamic-triangle} after hitting an obstacle
+	Everyone´s waiting at Pride Rock!"
+- id: 1399
+  text: "Tyne:
 
-      or Pooh will continue to lose health.
+	We can´t go to the savannah."
+- id: 1401
+  text: "Tyne:
 
-      {:color #FFEC1980}Pooh must be with Tyne to collect Orbs{:reset}.
-- id: 0x5613
-  en: >-
-      ⤷ Gopher will help Tyne with an obstacle one time!
-- id: 0x5617
-  en: >-
-      ⤷ Whenever Tyne falls from a balloon to the
+	We can´t go into the gorge."
+- id: 1403
+  text: "Tyne:
 
-      trampoline, the player loses one of their tries.
+	Simba sure could use some
 
-      The game is over when {:color #FFEC1980}zero tries are left{:reset}.
+	cheering up."
+- id: 1405
+  text: "Tyne:
+
+	How about we try that musical first?"
+- id: 1407
+  text: "Tyne:
+
+	C´mon, let´s follow Flounder!"
+- id: 1408
+  text: "Tyne:
+
+	This isn´t the right way."
+- id: 1414
+  text: "Tyne:
+
+	Hmm, looks like we can´t
+
+	go this way."
+- id: 1416
+  text: "Tyne:
+
+	Let´s go see Dr. Finklestein."
+- id: 1418
+  text: "Tyne:
+
+	Zero knows where to go!"
+- id: 1420
+  text: "Tyne:
+
+	Oogie´s blocked this way off!"
+- id: 1422
+  text: "Tyne:
+
+	Let´s go get those three jokers!"
+- id: 1424
+  text: "Tyne:
+
+	We can´t just go barging in."
+- id: 1426
+  text: "Tyne:
+
+	It won´t open. Is he working
+
+	on something?"
+- id: 1428
+  text: "Tyne:
+
+	We can´t get into the lab."
+- id: 1430
+  text: "Tyne:
+
+	I don´t think Pooh is over
+
+	this way."
+- id: 1432
+  text: "Tyne:
+
+	I´d better hear what everyone
+
+	has to say."
+- id: 1433
+  text: "Tyne:
+
+	I need to bring everyone along!"
+- id: 1434
+  text: "Tyne:
+
+	Pete isn´t this way!"
+- id: 1436
+  text: "Tyne:
+
+	We´ll lose Pete if we
+
+	don´t hurry!"
+- id: 1449
+  text: "‛Tyne’`Donald´ \\"Tyne\\" 'Donald' {:clear }-- - ??★☆■□{:clear }▲△●○♪
+
+	♫→←↑↓
+
+	・❤abcde‛’`'--★☆■□{:delay 78 00}{:clear }The punishment for high treason and
+
+	dishonoring the Army...is death.
+
+	"
+- id: 1483
+  text: "A familiar Keyblade to Tyne called
+
+	the Ultima Weapon.
+
+	It can be used for checking movement."
+- id: 7486
+  text: "Tyne:
+
+	"
+- id: 7488
+  text: "Tyne:
+
+	"
+- id: 7490
+  text: "Tyne:
+
+	Authorized personnel only, eh?"
+- id: 7492
+  text: "Tyne:
+
+	This isn´t the way to
+
+	Merlin´s house."
+- id: 7494
+  text: "Tyne:
+
+	"
+- id: 7496
+  text: "Tyne:
+
+	It doesn´t look like it´ll open."
+- id: 7498
+  text: "Tyne:
+
+	"
+- id: 7500
+  text: "Tyne:
+
+	We can´t give up now!"
+- id: 7766
+  text: "Party Members concentrate attacks on
+
+	Tyne´s target."
+- id: 7767
+  text: Party Members fight close to Tyne.
+- id: 7768
+  text: "Party Members will fight a target other
+
+	than Tyne´s."
+- id: 7769
+  text: "While Tyne attacks, Party Members will
+
+	support him."
+- id: 8013
+  text: "Tyne:
+
+	Doesn´t look like it´s ready yet."
+- id: 8014
+  text: "Tyne:
+
+	I can´t just barge in."
+- id: 8015
+  text: "Tyne:
+
+	This doesn´t feel right..."
+- id: 8016
+  text: "Tyne:
+
+	Something´s not letting us leave."
+- id: 8032
+  text: "Tyne:
+
+	ₓₓₓ"
+- id: 8033
+  text: "Tyne:
+
+	ₓₓₓ"
+- id: 8034
+  text: "Tyne:
+
+	ₓₓₓ"
+- id: 8035
+  text: "Tyne:
+
+	ₓₓₓ"
+- id: 10444
+  text: "Tyne:
+
+	Let´s get to Merlin´s house."
+- id: 12070
+  text: "Tyne:
+
+	I hope Pooh´s all right..."
+- id: 12135
+  text: "Tyne:
+
+	Our assignment is over
+
+	the mountain trail!"
+- id: 13110
+  text: "A Limit Command that uses teamwork
+
+	to unleash the powerful Trinity attack.
+
+	Consumes all of Tyne´s MP."
+- id: 13112
+  text: "A Limit Command that unleashes
+
+	Donald´s powerful Comet spell.
+
+	Consumes all of Tyne´s MP."
+- id: 13114
+  text: "A Limit Command that unleashes
+
+	Donald´s powerful Duck Flare spell.
+
+	Consumes all of Tyne´s MP."
+- id: 13116
+  text: "A Limit Command that unleashes Goofy´s
+
+	spinning attack, Whirli-Goof.
+
+	Consumes all of Tyne´s MP."
+- id: 13118
+  text: "A Limit Command that unleashes Goofy
+
+	and Tyne´s joint attack, Knocksmash.
+
+	Consumes all of Tyne´s MP."
+- id: 13120
+  text: "A Limit Command that unleashes Aladdin
+
+	and Tyne´s joint attack, Speedster.
+
+	Consumes all of Tyne´s MP."
+- id: 13122
+  text: "A Limit Command that unleashes Auron
+
+	and Tyne´s joint attack, Bushido.
+
+	Consumes all of Tyne´s MP."
+- id: 13124
+  text: "A Limit Command that unleashes Beast
+
+	and Tyne´s joint attack, Twin Howl.
+
+	Consumes all of Tyne´s MP."
+- id: 13126
+  text: "A Limit Command that unleashes Jack
+
+	and Tyne´s joint attack, Dance Call.
+
+	Consumes all of Tyne´s MP."
+- id: 13128
+  text: "A Limit Command that unleashes Mulan
+
+	and Tyne´s joint attack, Red Rocket.
+
+	Consumes all of Tyne´s MP."
+- id: 13130
+  text: "A Limit Command that unleashes Riku
+
+	and Tyne´s joint attack, Session.
+
+	Consumes all of Tyne´s MP."
+- id: 13132
+  text: "A Limit Command that unleashes Simba
+
+	and Tyne´s joint attack, Wildcat.
+
+	Consumes all of Tyne´s MP."
+- id: 13134
+  text: "A Limit Command that unleashes Jack
+
+	Sparrow and Tyne´s joint attack, Bluff.
+
+	Consumes all of Tyne´s MP."
+- id: 13136
+  text: "A Limit Command that unleashes Tron
+
+	and Tyne´s joint attack, Setup.
+
+	Consumes all of Tyne´s MP."
+- id: 13967
+  text: "Tyne:
+
+	C´mon, into the cave!"
+- id: 14004
+  text: "Tyne:
+
+	Let´s return to Hollow Bastion."
+- id: 14006
+  text: "Tyne:
+
+	We have to keep going!"
+- id: 15194
+  text: "Tyne:
+
+	But what about the Heartless?"
+- id: 15299
+  text: Use Healing Light to save Tyne!
+- id: 15300
+  text: Use Healing Light to trade places with Tyne!
+- id: 15490
+  text: "Dashes through enemies, bouncing
+
+	them towards Tyne. {:color #F0F00080}MP Cost: 10{:reset}"
+- id: 15529
+  text: "Stops enemy movements with dark magic
+
+	spells as commanded when Tyne´s
+
+	combo is about to end. {:color #F0F00080}MP Cost: 10{:reset}"
+- id: 15603
+  text: Anti-Tyne
+- id: 16133
+  text: "Tyne:
+
+	"
+- id: 16152
+  text: "Tyne:
+
+	We´ve got to go after Auron!"
+- id: 16574
+  text: "Tyne:
+
+	Let´s head up and see
+
+	what´s going on."
+- id: 16668
+  text: "Tyne:
+
+	We´ve got to get that data back!"
+- id: 16701
+  text: "Tyne:
+
+	It doesn´t look like we can
+
+	go this way!"
+- id: 16703
+  text: "Tyne:
+
+	There´s a lot of fallen rocks.
+
+	It´s probably too dangerous."
+- id: 16705
+  text: "Tyne:
+
+	There's a lot of fallen rocks.
+
+	It's probably too dangerous."
+- id: 16827
+  text: "Tyne:
+
+	Let´s ask Will when
+
+	she´ll be sailing."
+- id: 16829
+  text: "Tyne:
+
+	"
+- id: 16831
+  text: "Tyne:
+
+	"
+- id: 16833
+  text: "Tyne:
+
+	"
+- id: 17061
+  text: "Tyne:
+
+	Maybe we should check out
+
+	the monument."
+- id: 17088
+  text: "Tyne:
+
+	The ship should be at Port Royal."
+- id: 17089
+  text: "Tyne:
+
+	The ship should be at Isla de Muerta."
+- id: 17090
+  text: "Tyne:
+
+	The ship should be at the ship graveyard."
+- id: 17091
+  text: "Tyne:
+
+	The ship should be at Isla de Muerta."
+- id: 17395
+  text: "Tyne:
+
+	"
+- id: 17397
+  text: "Tyne:
+
+	We should get out of here."
+- id: 17399
+  text: "Tyne:
+
+	There aren´t any hyenas
+
+	over here."
+- id: 17401
+  text: "Tyne:
+
+	What else did we have to do...?"
+- id: 17738
+  text: "Tyne:
+
+	I´ve got stuff to do."
+- id: 17740
+  text: "Tyne:
+
+	I´ve got to get on that train!"
+- id: 17742
+  text: "Tyne:
+
+	We´d better not--not with
+
+	Pete there."
+- id: 17818
+  text: "{:width 85}Peter Pan will help Tyne fight against enemies.
+
+	If Tyne falls during battle, Tinker Bell will be
+
+	able to revive him one time."
+- id: 17840
+  text: "Summons Status. A friend will come and
+
+	help Tyne when called upon.
+
+	{:color #F0F00080}Drive points consumed: 3{:reset}"
+- id: 17847
+  text: "Tyne:
+
+	"
+- id: 17849
+  text: "Tyne:
+
+	We need the password to
+
+	the DTD!"
+- id: 17851
+  text: "Tyne:
+
+	"
+- id: 18019
+  text: "Tyne:
+
+	Something´s up at the sandlot!"
+- id: 18021
+  text: "Tyne:
+
+	Something´s up at the sandlot!"
+- id: 18023
+  text: "Tyne:
+
+	Gotta get to the station
+
+	on the double!"
+- id: 18025
+  text: "Tyne:
+
+	Something´s up at the sandlot!"
+- id: 18027
+  text: "Tyne:
+
+	Gotta get to the station
+
+	on the double!"
+- id: 18029
+  text: "Tyne:
+
+	Something´s up at the sandlot!"
+- id: 18031
+  text: "Tyne:
+
+	Gotta get to the station
+
+	on the double!"
+- id: 18033
+  text: "Tyne:
+
+	Hmm, not this way..."
+- id: 18035
+  text: "Tyne:
+
+	Hmm, not this way..."
+- id: 18037
+  text: "Tyne:
+
+	Hmm, not this way..."
+- id: 18039
+  text: "Tyne:
+
+	Hmm, not this way..."
+- id: 18044
+  text: "A charm from Kairi. It represents
+
+	her wish to meet Tyne again,
+
+	no matter how far apart they are."
+- id: 18050
+  text: "Tyne:
+
+	Let´s hurry up and find Tron!"
+- id: 18052
+  text: "Tyne:
+
+	"
+- id: 18054
+  text: "Tyne:
+
+	"
+- id: 18056
+  text: "Tyne:
+
+	"
+- id: 18058
+  text: "Tyne:
+
+	Tron´s waiting for us!"
+- id: 18060
+  text: "Tyne:
+
+	"
+- id: 18062
+  text: "Tyne:
+
+	Let´s get the energy core
+
+	online first."
+- id: 18064
+  text: "Tyne:
+
+	The terminal´ll get us back
+
+	to Hollow Bastion."
+- id: 18066
+  text: "Tyne:
+
+	The MCP´s disabled the elevators!"
+- id: 18480
+  text: "Tyne:
+
+	Leon will have all the details."
+- id: 18573
+  text: "Tyne:
+
+	We´ve got to get rid of
+
+	these Heartless!"
+- id: 18755
+  text: "Tyne:
+
+	We can´t interrupt training!"
+- id: 18756
+  text: "Tyne:
+
+	We can´t interrupt training!"
+- id: 18757
+  text: "Tyne:
+
+	We can´t interrupt training!"
+- id: 18758
+  text: "Tyne:
+
+	We can´t interrupt training!"
+- id: 18808
+  text: "Tyne:
+
+	We´ve got to log in to
+
+	that computer!"
+- id: 18810
+  text: "Tyne:
+
+	We have to go restart
+
+	the terminal!"
+- id: 18812
+  text: "Tyne:
+
+	The terminal should take us
+
+	to the game grid!"
+- id: 18855
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18856
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18857
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18858
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18859
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18860
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18861
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18862
+  text: "Tyne:
+
+	I can´t ride my skateboard there."
+- id: 18928
+  text: "Tyne:
+
+	Wait for Will´s signal!"
+- id: 19007
+  text: "Tyne:
+
+	This isn´t the right train."
+- id: 19031
+  text: "Tyne:
+
+	We´ve got to get rid of
+
+	these hyenas!"
+- id: 19032
+  text: "Tyne:
+
+	We´ve got to get rid of
+
+	these hyenas!"
+- id: 19033
+  text: "Tyne:
+
+	We have to capture them!"
+- id: 19113
+  text: "Tyne:
+
+	We can´t let Pete get away!"
+- id: 19114
+  text: "Tyne:
+
+	I´m not about to run away!"
+- id: 19115
+  text: "Tyne:
+
+	I´m not about to run away!"
+- id: 19116
+  text: "Tyne:
+
+	I´m not about to run away!"
+- id: 19311
+  text: "Tyne:
+
+	"
+- id: 19316
+  text: "Tyne:
+
+	I can´t enter yet. Are they
+
+	working on it?"
+- id: 19318
+  text: "Tyne:
+
+	We have to hurry to the mansion!"
+- id: 19376
+  text: "Tyne:
+
+	There´s no turning back now..."
+- id: 19388
+  text: "Tyne:
+
+	ₓₓₓ"
+- id: 19435
+  text: "Tyne:
+
+	There´s no turning back now..."
+- id: 19562
+  text: "Tyne:
+
+	I´ll ask the others if we´re
+
+	ready to leave."
+- id: 19573
+  text: "Tyne:
+
+	I´m still on the clock!"
+- id: 19574
+  text: "Tyne:
+
+	I´m still on the clock!"
+- id: 19575
+  text: "Tyne:
+
+	I´m still on the clock!"
+- id: 19576
+  text: "Tyne:
+
+	I´m still on the clock!"
+- id: 19577
+  text: "Tyne:
+
+	I´m still on the clock!"
+- id: 19578
+  text: "Tyne:
+
+	I´m still on the clock!"
+- id: 19620
+  text: "Tyne:
+
+	But what about the powder
+
+	kegs?"
+- id: 20330
+  text: "Restores Tyne's HP when
+
+	a Limit Command lands."
+- id: 20398
+  text: "Proof of winning the battle in
+
+	the portal at Disney Castle.
+
+	Perhaps it has changed Tyne."
+- id: 20400
+  text: "Proof of defeating all of Organization {XIII}'s
+
+	replica data in the Garden of Assemblage.
+
+	Perhaps it has changed Tyne."
+- id: 20402
+  text: "Proof of appeasing the Mushroom {XIII}.
+
+	Perhaps it has changed Tyne."
+- id: 22032
+  text: ⤷ Gopher will help Tyne with an obstacle {:color #FFEC1980}one time{:reset}!
+- id: 22033
+  text: "Press {:icon dynamic-triangle} after hitting an obstacle
+
+	or Pooh will continue to lose health.
+
+	{:color #FFEC1980}Pooh must be with Tyne to collect Orbs{:reset}."
+- id: 22035
+  text: ⤷ Gopher will help Tyne with an obstacle one time!
+- id: 22039
+  text: "⤷ Whenever Tyne falls from a balloon to the    trampoline, the player loses one of their tries.    The game is over when {:color #FFEC1980}zero tries are left{:reset}."
