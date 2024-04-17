@@ -38,9 +38,3 @@ assets:
   method: copy
   source:
   - name: portraits/Base/normal.dds
-
-- name: remastered/obj/P_EX100_XM.a.us/-8.dds
-  platform: pc
-  method: copy
-  source:
-  - name: portraits/Base/normal.dds
