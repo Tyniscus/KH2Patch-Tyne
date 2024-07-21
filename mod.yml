@@ -13,6 +13,7 @@ assets:
       language: en
 
 # Icon Replacement
+# Default, Normal
 - name: remastered/obj/AL14_PLAYER.a.us/-8.dds
   platform: pc
   method: copy
@@ -38,3 +39,45 @@ assets:
   method: copy
   source:
   - name: portraits/Default/normal.dds
+# Default, Valor
+- name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Default/valor.dds
+# Default, Wisdom
+- name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Default/wisdom.dds
+# Default, Master
+- name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Default/master.dds
+# Default, Final
+- name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Default/final.dds
+# Default, Limit
+- name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Default/limit.dds
+# Default, Anti
+- name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Default/anti.dds
+# KH1
+- name: remastered/obj/P_EX120.a.us/-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: portraits/Other/KH1.dds
